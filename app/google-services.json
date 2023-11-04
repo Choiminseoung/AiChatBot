@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624740354593",
+    "project_id": "aichatbot-77c8b",
+    "storage_bucket": "aichatbot-77c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624740354593:android:770bdf5d32e26c8361b160",
+        "android_client_info": {
+          "package_name": "com.example.aichatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624740354593-gavrj3oun0jnli3ih4a82lgemmto18gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOreyQ14PBggCVwu3XYNJVoJcCBbo-gKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624740354593-gavrj3oun0jnli3ih4a82lgemmto18gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
